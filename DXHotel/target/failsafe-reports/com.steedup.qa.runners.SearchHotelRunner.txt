@@ -1,16 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.steedup.qa.runners.SearchHotelRunner
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 92.891 s <<< FAILURE! - in com.steedup.qa.runners.SearchHotelRunner
-The user Daniela wants to verify the rate charged for the cheapest destinations(Search hotels)  Time elapsed: 43.885 s  <<< FAILURE!
-java.lang.AssertionError: 
-
-Expected: an element that is visible
-     but: no matching element found by xpath: (//*[@class='city'])[1]
-
-The user Daniela wants to verify the rate charged for the cheapest destinations(Search hotels)  Time elapsed: 45.478 s  <<< FAILURE!
-java.lang.AssertionError: 
-
-Expected: an element that is visible
-     but: no matching element found by xpath: (//*[@class='city'])[1]
-
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 131.413 s - in com.steedup.qa.runners.SearchHotelRunner

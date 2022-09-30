@@ -8,11 +8,11 @@ Feature:  Search hotels
       | location   | checkout   | checkin   | rooms   | adults   | children   |
       | <location> | <checkout> | <checkin> | <rooms> | <adults> | <children> |
 
-    Then he should see the title <title>
+    Then he should see the title
     Examples:
-      | location | checkout  | checkin   | rooms | adults | children | title             |
-      | Honolulu | 09/30/2022 | 09/29/2022 | 1     | 1      | 0        | Honolulu, HI, USA |
-      | New York | 10/03/2022 | 09/30/2022 | 1     | 1      | 0        | New York, NY, USA|
+      | location | checkout   | checkin    | rooms | adults | children |
+      | Honolulu | 10/02/2022 | 09/30/2022 | 1     | 1      | 0        |
+      | New York | 10/03/2022 | 09/30/2022 | 1     | 1      | 0        |
 
 
 

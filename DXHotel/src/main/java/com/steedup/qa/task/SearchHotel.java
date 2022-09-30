@@ -68,13 +68,13 @@ public class SearchHotel implements Task {
 
         int menorvalor;
         if(Precio1 < Precio2 && Precio1 < Precio3 ){
-            actor.attemptsTo(Click.on(CLICK_BUTTON));
+            actor.attemptsTo(Click.on(CLICK_BUTTON), Wait.waitFor(1));
             menorvalor = Precio1;
         }else if (Precio2 < Precio1 && Precio2 < Precio3){
-            actor.attemptsTo(Click.on(CLICK_BUTTON2));
+            actor.attemptsTo(Click.on(CLICK_BUTTON2), Wait.waitFor(1));
             menorvalor = Precio2;
         }else {
-            actor.attemptsTo(Click.on(CLICK_BUTTON3));
+            actor.attemptsTo(Click.on(CLICK_BUTTON3), Wait.waitFor(1));
             menorvalor = Precio3;
         }
         String checkinDate = searchHotel.getCheckin();

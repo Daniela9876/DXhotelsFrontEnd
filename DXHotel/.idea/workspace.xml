@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1636ed1-de54-453e-a251-7a9b4a70b3bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/READMI.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/interaction/Scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/interaction/Scroll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/interaction/Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/interaction/Wait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/models/SearchHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/models/SearchHotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/question/BusquedaCorrecta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/question/BusquedaCorrecta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/task/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/task/OpenBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/task/SearchHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/task/SearchHotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/steedup/qa/userinterface/SearchHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/steedup/qa/userinterface/SearchHotel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/steedup/qa/stepdefinitions/SearchHotelStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/steedup/qa/stepdefinitions/SearchHotelStep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/SearchHotel.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/SearchHotel.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/cde75bfd0067618e3063c65d244a3ceeacae6c04abd024f9c359bc5fb57b2f67_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/SearchHotel.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/SearchHotel.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
