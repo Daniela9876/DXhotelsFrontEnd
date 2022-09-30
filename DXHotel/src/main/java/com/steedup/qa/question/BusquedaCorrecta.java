@@ -13,10 +13,11 @@ public class BusquedaCorrecta implements Question<String> {
         actor.attemptsTo(WaitUntil.the((SearchHotel.TITULO_BUSQUEDA_CORRECTA),
                 WebElementStateMatchers.isVisible()));
         return Text.of(SearchHotel.TITULO_BUSQUEDA_CORRECTA).viewedBy(actor).asString();
+
     }
 
-    public static BusquedaCorrecta title(){
 
+    public static BusquedaCorrecta title(){
         return new BusquedaCorrecta();
     }
 }

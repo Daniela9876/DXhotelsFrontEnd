@@ -1,0 +1,7 @@
+com\steedup\qa\models\SearchHotel.class
+com\steedup\qa\question\BusquedaCorrecta.class
+com\steedup\qa\interaction\Scroll.class
+com\steedup\qa\interaction\Wait.class
+com\steedup\qa\task\SearchHotel.class
+com\steedup\qa\userinterface\SearchHotel.class
+com\steedup\qa\task\OpenBrowser.class

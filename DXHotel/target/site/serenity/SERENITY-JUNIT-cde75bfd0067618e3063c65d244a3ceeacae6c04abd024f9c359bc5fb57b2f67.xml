@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Search hotels" skipped="0" tests="2" time="44.0" timestamp="2022-09-29 09:15:32"><testcase name="The user Daniela wants to verify the rate charged for the cheapest destinations"><failure message="&#10;Expected: an element that is visible&#10;     but: no matching element found by xpath: (//*[@class='city'])[1]" type="java.lang.AssertionError">
+Expected: an element that is visible
+     but: no matching element found by xpath: (//*[@class='city'])[1]</failure><system-err>
+Expected: an element that is visible
+     but: no matching element found by xpath: (//*[@class='city'])[1]&#13;
+com.steedup.qa.question.BusquedaCorrecta.answeredBy(BusquedaCorrecta.java:13)&#13;
+com.steedup.qa.question.BusquedaCorrecta.answeredBy(BusquedaCorrecta.java:10)&#13;
+com.steedup.qa.stepdefinitions.SearchHotelStep.heShouldSeeTheTitle(SearchHotelStep.java:44)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
